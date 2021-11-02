@@ -72,5 +72,6 @@
   "bugs": {
     "url": "https://github.com/netlify/victor-hugo/issues"
   },
-  "homepage": "https://github.com/netlify/victor-hugo#readme"
+  "homepage": "https://github.com/netlify/victor-hugo#readme",
+  "dependencies": {}
 }
